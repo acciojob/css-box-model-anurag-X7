@@ -1,2 +1,17 @@
-
-/* Your CSS Code here. */
+        #container{
+            /* Add your styles here */
+            margin:20px;
+            border: 15px solid blue;
+            background-color:blue;
+            width: fit-content;
+        }
+        #box {
+            background-color: lightblue;
+            padding: 50px;
+            width: 300px;
+            text-align: center;
+        }
+        #content{
+            border:1px dashed black;
+            padding: 10px;
+        }
